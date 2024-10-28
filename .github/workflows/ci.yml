@@ -27,4 +27,4 @@ jobs:
         env:
           NAME: Cleiane Bondade
           EMAIL: clei.bondade@gmail.com
-        run: make update-branch USER_NAME=$NAME USER_EMAIL=$EMAIL
+        run: make update-branch USER_NAME=Cleiane Bondade USER_EMAIL=clei.bondade@gmail.com
